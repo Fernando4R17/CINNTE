@@ -14,7 +14,7 @@ npm install
 cp env.example .env
 ```
 
-3. Configura tu base de datos in `.env`
+3. Configura tu base de datos en `.env`
 
 4. Corre el servidor:
 ```bash
