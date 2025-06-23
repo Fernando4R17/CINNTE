@@ -15,8 +15,12 @@ cp env.example .env
 ```
 
 3. Configura tu base de datos en `.env`
+ ```bash
+Dentro de la carpeta src/config se encuentra el archivo database.sql
+Ese script lo debes de ejecutar dentro de tu manejador de base de datos postgreSQL para que te cree la base de datos necesitada
+ ```
 
-4. Corre el servidor:
+5. Corre el servidor:
 ```bash
 npm run dev
 ```
