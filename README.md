@@ -2,7 +2,7 @@
 
 Examen para vacante de programador en CINNTE
 
-#Objetivo del Examen:
+# Objetivo del Examen:
 ```
 Diseñar y desarrollar un sistema web tipo asistente en fases para 
 la captura y consulta de información de productos y empresas. 
